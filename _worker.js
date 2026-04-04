@@ -2547,7 +2547,7 @@ async function 读取config_JSON(env, hostname, userID, UA = "Mozilla/5.0", 重�
 		},
 		订阅转换配置: {
 			SUBAPI: "https://SUBAPI.cmliussss.net",
-			SUBCONFIG: "https://raw.githubusercontent.com/cmliu/ACL4SSR/refs/heads/main/Clash/config/ACL4SSR_Online_Mini_MultiMode_CF.ini",
+			SUBCONFIG: "https://raw.githubusercontent.com/wangcome/cloud/refs/heads/main/mini.ini",
 			SUBEMOJI: false,
 		},
 		反代: {
